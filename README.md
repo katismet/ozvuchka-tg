@@ -1,8 +1,10 @@
-if (-not (Test-Path .\README.md)) {
-@'
-# Telegram TTS Bot
+# Telegram TTS Bot (ElevenLabs v2 + gTTS fallback)
 
-## Install
+## Требования
+- Python 3.10+
+- Windows PowerShell
+
+## Установка
 ```pwsh
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
