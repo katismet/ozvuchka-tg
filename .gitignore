@@ -1,0 +1,9 @@
+﻿ozvuchka_tg/config.py
+__pycache__/
+*.pyc
+.venv/
+.env
+*.env
+.idea/
+.vscode/
+.DS_Store
